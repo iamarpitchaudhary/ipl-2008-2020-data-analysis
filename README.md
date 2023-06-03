@@ -1,1 +1,2 @@
-# IPL-2008-2020-data-analysis
+> **IPL-2008-2020-data-analysis**
+> this presentation is representing the data analysis of IPL (2008-2020) Data. i have first downloaded this data from kagle and import it in MS Excel and perform 1st Datacleasning than conditional formating and so on . and created visualizations by help of pivot tables and pivot table graphical representation and create a dashboard with KPI's and slicers in MS Excel . then copied all the visualizations in MS powerpoint and created presentations slides .      
